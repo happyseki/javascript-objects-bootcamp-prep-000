@@ -1,7 +1,8 @@
-var playlist = {Slowdive:'Alison'};
-var artistName = 'My Bloody Valentine';
-var songTitle = 'Sometimes';
-function updatePlaylist(playlist,artistName,songTitle){
- playlist.[artistName]=songTitle;
+var playlist = {
+  Slowdive:'Alison',
+  My Bloody Valentine:'Sometimes'
+};
+
+function updatePlaylist(playlist,'Phil Ochs','Here\'s to the State of Mississippi'){
 return playlist;
 }
