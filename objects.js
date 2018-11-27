@@ -1,1 +1,4 @@
-var playlist {: "Taylor"};
+var playlist = {
+  Slowdive: 'Alison',
+  My Bloody Valentine: 'Sometimes'
+};
