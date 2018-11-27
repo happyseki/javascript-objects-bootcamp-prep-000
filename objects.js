@@ -1,3 +1,3 @@
 var playlist ={
-  playlist
+  playlist: "Taylor"
 };
